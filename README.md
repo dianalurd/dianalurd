@@ -12,13 +12,17 @@ Able to effectively self-manage independent projects with good collaboration ski
   
 ## Tecnologías:
 </br>
+
+[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+
 [![Net](https://img.shields.io/badge/dotNet-999999?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)]()
 [![Csharp](https://img.shields.io/badge/CSharp-FA7343?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
-[![Visual_Studio](https://img.shields.io/badge/Visual%20Studio-1575F9?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)]()
-[![Visual_Basic](https://img.shields.io/badge/Visual%20Basic-1575F9?style=for-the-badge&logo=visualbasic&logoColor=white&labelColor=101010)]()
+[![VisualStudio](https://img.shields.io/badge/Visual%20Studio-1575F9?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)]()
+[![VisualBasic](https://img.shields.io/badge/Visual%20Basic-1575F9?style=for-the-badge&logo=visualbasic&logoColor=white&labelColor=101010)]()
 [![Azure](https://img.shields.io/badge/Azure-1575F9?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)]()
-[![MS_SQL](https://img.shields.io/badge/MSSQL-1575F9?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)]()
+[![MSSQL](https://img.shields.io/badge/MSSQL-1575F9?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)]()
 [![GIT](https://img.shields.io/badge/Git-1575F9?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+
 </br>
 Y alguna más...
 
