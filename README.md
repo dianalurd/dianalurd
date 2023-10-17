@@ -17,9 +17,10 @@ Able to effectively self-manage independent projects with good collaboration ski
 [![Visual_Studio](https://img.shields.io/badge/Visual%20Studio-1575F9?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)]()
 [![Visual_Basic](https://img.shields.io/badge/Visual%20Basic-1575F9?style=for-the-badge&logo=visualbasic&logoColor=white&labelColor=101010)]()
 [![Azure](https://img.shields.io/badge/Azure-1575F9?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)]()
-[![MS_SQL]()]()
+[![MS_SQL](https://img.shields.io/badge/MSSQL-1575F9?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)]()
 [![GIT](https://img.shields.io/badge/Git-1575F9?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 </br>
+Y alguna más...
 
 <!--
 
