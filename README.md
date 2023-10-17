@@ -1,5 +1,6 @@
 ### Hi there, my name is Diana Rodriguez👋
 ### Experienced .Net Developer
+![https://github.com/dianalurd](https://raw.githubusercontent.com/dianalurd/dianalurd/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dianalurodriguez-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/dianalurodriguez-software/)
 
