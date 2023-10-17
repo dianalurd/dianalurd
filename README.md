@@ -1,7 +1,7 @@
 ### Hi there, my name is Diana Rodriguez👋
 ### Experienced .Net Developer
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-dianalurodriguez-software?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010](https://img.shields.io/badge/LinkedIn-dianalurodriguez-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010))](https://www.linkedin.com/in/dianalurodriguez-software/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dianalurodriguez-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/dianalurodriguez-software/)
 
 I am a Software Engineer with 5 years of experience in the analysis, design, implementation, installation and maintenance of information systems.
 Proficient in the .NET Framework and MS SQL database management in an agile, multicultural and multilingual development environment. 
