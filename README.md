@@ -10,10 +10,8 @@ Able to effectively self-manage independent projects with good collaboration ski
 👯 I’m looking to collaborate on Cloud based Projects
 ⚡ Fun fact: I speak French, English, Spanish and a little Portuguese.
   
-## Tecnologías:
+## Tecnologies:
 </br>
-
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 
 [![Net](https://img.shields.io/badge/dotNet-999999?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)]()
 [![Csharp](https://img.shields.io/badge/CSharp-FA7343?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
@@ -24,7 +22,6 @@ Able to effectively self-manage independent projects with good collaboration ski
 [![GIT](https://img.shields.io/badge/Git-1575F9?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
 </br>
-Y alguna más...
 
 <!--
 
